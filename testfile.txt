@@ -1,1 +1,9 @@
 test file 123
+
+Adding the git commands
+
+
+1. git clone <clone-URL>
+2. git add -A -- (Adds all the files )
+3. git commit -m "somemsg"
+4. git push origin main
